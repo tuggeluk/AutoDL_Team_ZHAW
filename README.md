@@ -17,6 +17,9 @@ All the submissions are in the respective challenge format and can easily be run
 ##### AutoSpeech
 
 ##### AutoWSL
+* Semi-supervised Learning Task: Iterative training  on  the  already  labelled  data  and  labelling  of  unlabelled data to train LightGBM models.
+* Positive-Unlabelled(PU)  Learning  Task: same as Semi-supervision but choosig of negative samples differ.
+* Learning  on  Noisy  Labels: Extremely week GBM classifiers and using a BoostedEnsemble  of  these  classifiers 
 
 
 ##### AutoDL
